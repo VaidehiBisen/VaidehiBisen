@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VaidehiBisen
 - 👀 I’m interested in Data Analyst field
-- 🌱 I’m currently learning Python libraries and SQL
-- 💞️ I’m looking for an internship 
+- 🌱 I’m currently learning Python libraries , SQL and Machine learning
+- 💞️ I’m looking for a job 
 - 📫 How to reach me through gmail -vaidehibisen5637@gmail.com
 
 <!---
